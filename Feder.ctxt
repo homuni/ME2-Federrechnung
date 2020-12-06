@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Feder
+comment1.params=
+comment1.target=Feder()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Feder\n
+comment2.params=
+comment2.target=double\ Arbeit()
+comment3.params=d
+comment3.target=void\ FederKreis(double)
+comment4.params=b\ h
+comment4.target=void\ FederQuer(double,\ double)
+comment5.params=d\ L\ F
+comment5.target=void\ BiegeFederKreis(double,\ double,\ double)
+comment6.params=L\ h\ b\ F
+comment6.target=void\ BiegeFederQuer(double,\ double,\ double,\ double)
+comment7.params=Wb\ L
+comment7.target=double\ FederkraftKreis(double,\ double)
+numComments=8
